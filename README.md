@@ -1,2 +1,2 @@
-# PYTHON_BEGINNER
-#1-Data type,type casting,data structure
+# PYTHON_CODE
+# Python variable,Data type,Type casting,Identifier
